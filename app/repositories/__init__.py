@@ -1,0 +1,6 @@
+from app.repositories.usuario_repository import UsuarioRepository
+from app.repositories.gym_repository import GymRepository
+from app.repositories.miembro_repository import MiembroRepository
+from app.repositories.actividad_repository import ActividadRepository
+from app.repositories.pago_repository import PagoRepository
+from app.repositories.promocion_repository import PromocionRepository
